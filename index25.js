@@ -1,0 +1,20 @@
+var SuperHeroName = 'Batman';
+var realName = 'Bruce Wayne';
+var fly = false;
+var hasBatmobile = true;
+var life = 80;
+var freeTime = null
+console.log('SuerHero Name:', SuperHeroName);
+console.log('Real Name:', realName);
+console.log('Fly:', fly);
+console.log(' Has Batmobile:',hasBatmobile );
+console.log(' Life:', life);
+console.log(' Free Time:', freeTime);
+console.log(' ');
+console.log(' ');
+console.log(typeof SuperHeroName);
+console.log(typeof realName);
+console.log(typeof fly);
+console.log(typeof hasBatmobile );
+console.log(typeof life);
+console.log(typeof freeTime);
